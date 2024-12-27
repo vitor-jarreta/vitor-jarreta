@@ -65,3 +65,12 @@
     <img aling = "center" height = "172px" width = "172px" src = "https://i.pinimg.com/originals/2d/cc/93/2dcc9384250518a03fc038c363b689b8.gif">
   </div>
 </div>
+
+<div>
+  <hr>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-jarreta/vitor-jarreta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitor-jarreta/vitor-jarreta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitor-jarreta/vitor-jarreta/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
