@@ -3,14 +3,14 @@
   <p>Ou para os mais íntimos, apenas Jarreta 😜</p>
   <p>Seja bem vindo ao meu <img align = "center" height = "32px" width = "32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></p>
   <div>
-    <h3>Sobre mim:<img align = "right" ></h3>
+    <h3>Sobre mim:<img align = "right" src = "https://github.com/vitor-jarreta/vitor-jarreta/blob/main/images/MeCartoon.png?raw=true"></h3>
     <p>Sou formado em Engenharia da Computação e estou na área de tecnologia a mais de 2 anos, na qual, já tive atuação em várias áreas.</p>
     <p>Sou um entusiasta de IA e visão computacional, áreas que explorei a fundo no meu TCC. A paixão por dados me levou a mergulhar em machine learning e data science. Adoro conectar o útil ao agradável e aprender sempre mais!</p>
     </div>
   </div>
 </div>
 
-<div> 
+<div align="center"> 
   <hr>
   <a href = "https://www.linkedin.com/in/vitor-jarreta-a5ba2a207"/>
   <img height = "160em" width = "360em" src = "https://github-readme-stats.vercel.app/api?username=vitor-jarreta&show_icons=true&theme=transparent&include_all_comits=true&count_private=true"/>
@@ -44,7 +44,7 @@
   <img aling = "center" height = "64px" width = "64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg"/>
 </div>
 
-<div>
+<div align = "center">
   <hr>
   <a href = "mailto:vitorjarreta@gmail.com?subject=Gostaria de Entrar em contato">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -57,3 +57,11 @@
   </a>
 </div>
 
+<div>
+  <hr>
+  <p align = "center" ><img align = 'left' height = "64px" width = "64px" src = "https://fenexprint.com.br/wp-content/uploads/2021/12/placa-decorativa-geek-mestre-ioda-star-wars-GEE001-500x500.png"/><strong>Que você divirta-se trabalhando em tecnologia como o michael e que desenvolva algo mágicos para vivermos como se estivéssemos em hogwarts! </strong></p>
+  <div align = "center">
+    <img aling = "center" height = "172px" width = "172px" src = "https://i.gifer.com/origin/57/575331c9bf0cec11f0b93098cf60511e_w200.gif">
+    <img aling = "center" height = "172px" width = "172px" src = "https://i.pinimg.com/originals/2d/cc/93/2dcc9384250518a03fc038c363b689b8.gif">
+  </div>
+</div>
