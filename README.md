@@ -58,7 +58,7 @@
 </div>
 
 <div>
-  <hr>
+  <br>
   <p align = "center" ><img align = 'left' height = "64px" width = "64px" src = "https://fenexprint.com.br/wp-content/uploads/2021/12/placa-decorativa-geek-mestre-ioda-star-wars-GEE001-500x500.png"/><strong>Que você divirta-se trabalhando em tecnologia como o michael e que desenvolva algo mágicos para vivermos como se estivéssemos em hogwarts! </strong></p>
   <div align = "center">
     <img aling = "center" height = "172px" width = "172px" src = "https://i.gifer.com/origin/57/575331c9bf0cec11f0b93098cf60511e_w200.gif">
