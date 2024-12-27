@@ -66,7 +66,7 @@
   </div>
 </div>
 
-<div>
+<div align = "center">
   <hr>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-jarreta/vitor-jarreta/output/github-contribution-grid-snake-dark.svg">
