@@ -1,5 +1,5 @@
 <div>
-  <h1>Olá, eu sou o Vitor Jarreta 👋</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Vitor+Jarreta!!+%F0%9F%91%8B" alt="Typing SVG" /></a>
   <p>Ou para os mais íntimos, apenas Jarreta 😜</p>
   <p>Seja bem vindo ao meu <img align = "center" height = "32px" width = "32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></p>
   <div>
