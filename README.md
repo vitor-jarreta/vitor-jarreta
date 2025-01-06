@@ -52,7 +52,7 @@
   <a href = "https://www.linkedin.com/in/vitor-jarreta-a5ba2a207" >
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a>
+  <a href="https://www.kaggle.com/vitorjarretaribeiro">
     <img src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>
 </div>
